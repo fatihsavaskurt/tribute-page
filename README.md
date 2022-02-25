@@ -1,2 +1,2 @@
 # tribute-page
-I made for freecodecamp.org
+I made for freecodecamp.org.
