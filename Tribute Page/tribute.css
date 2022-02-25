@@ -1,0 +1,25 @@
+.text-bold{
+    font-weight: bold;
+}
+
+#tribute-info{
+
+
+        position: absolute;
+        top: 1290px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+
+    
+}
+
+
+
+html > body {
+    background-color: gray;
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+    color: aliceblue;
+
+  }
